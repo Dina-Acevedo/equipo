@@ -97,7 +97,8 @@ html p a:hover {
 	background-color: #ffcc00;
 	text-align: center;
 }
-.boton_felicitaciones:focus{
+.boton_felicitaciones{
+	cursor: pointer;
 	
 		color: #ffffff;
 		background-color: #3eff3e;
