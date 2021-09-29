@@ -93,6 +93,17 @@ figure {
 html p a:hover {
 	text-decoration: none;
 }
+.superior{
+	background-color: #ffcc00;
+	text-align: center;
+}
+.boton_felicitaciones:focus{
+	
+		color: #ffffff;
+		background-color: #3eff3e;
+		border-color: #3eff3e;
+
+}
 
 /*
 *
