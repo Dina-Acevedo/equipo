@@ -97,14 +97,75 @@ html p a:hover {
 	background-color: #ffcc00;
 	text-align: center;
 }
-.boton_felicitaciones{
-	cursor: pointer;
-	
-		color: #ffffff;
-		background-color: #3eff3e;
-		border-color: #3eff3e;
+#boton_felicitaciones{
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-weight: 500;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	transition: .33s;
+}
+#boton_felicitaciones:focus{
+	color: #ffffff;
+	background: #3eff3e;
+	border-color: #3eff3e;
+
 
 }
+#boton_felicitaciones:hover{
+	color: #ffffff;
+	background: #000000;
+	border-color: #000000;
+
+}
+#boton_asesoria{
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-weight: 500;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	transition: .33s;
+}
+#boton_asesoria:focus{
+	color: #ffffff;
+	background: #3eff3e;
+	border-color: #3eff3e;
+
+
+}
+#boton_asesoria:hover{
+	color: #ffffff;
+	background: #000000;
+	border-color: #000000;
+
+}
+#reporte_pqrs{
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-weight: 500;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	transition: .33s;
+}
+#reporte_pqrs:focus{
+	color: #ffffff;
+	background: #3eff3e;
+	border-color: #3eff3e;
+
+
+}
+#reporte_pqrs:hover{
+	color: #ffffff;
+	background: #000000;
+	border-color: #000000;
+
+}
+
+
+	
 
 /*
 *
